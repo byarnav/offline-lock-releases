@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>OfflineLock</title>
+        <title>Vow</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Sat, 31 Oct 2026 15:36:26 +0530</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Sat, 31 Oct 2026 18:22:37 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yourarnav/offline-lock-releases/releases/download/v1.0.3/OfflineLock-1.0.3.dmg" length="5406757" type="application/octet-stream" sparkle:edSignature="V/8byhsH4q6AmAYUYpK4XI+1hiEgrVXnTMwhWgouYzsj7AoNI2GjLnnEI40slwJstF2fe7j86iBOAuaIUIzKAQ=="/>
+            <enclosure url="https://github.com/yourarnav/offline-lock-releases/releases/download/v1.0.4/Vow-1.0.4.dmg" length="3924185" type="application/octet-stream" sparkle:edSignature="3ardKnlpkG5WOU92/sKj4maOateMiturYfHvTK17kTFVE9JfAcdWuGLsDyLte7j7/fV1tRjykz55/Ijy/RTMCA=="/>
         </item>
     </channel>
 </rss>
