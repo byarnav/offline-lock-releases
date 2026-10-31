@@ -1,2 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschke.org/xmlns/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Offline Lock</title><link>https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/appcast.xml</link><description>Offline Lock updates</description><language>en</language></channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OfflineLock</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Sat, 31 Oct 2026 15:36:26 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/yourarnav/offline-lock-releases/releases/download/v1.0.3/OfflineLock-1.0.3.dmg" length="5406757" type="application/octet-stream" sparkle:edSignature="V/8byhsH4q6AmAYUYpK4XI+1hiEgrVXnTMwhWgouYzsj7AoNI2GjLnnEI40slwJstF2fe7j86iBOAuaIUIzKAQ=="/>
+        </item>
+    </channel>
+</rss>
