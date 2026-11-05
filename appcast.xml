@@ -3,6 +3,22 @@
     <channel>
         <title>Vow</title>
         <item>
+            <title>1.0.15</title>
+            <pubDate>Fri, 06 Nov 2026 00:29:10 +0530</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow-1.0.15.dmg" length="4135392" type="application/octet-stream" sparkle:edSignature="q1tWQD6Iacv+IJ+4wu6NPWizHe8klo6SY7S7pTqHuSoMpNUx+A5nk6u9fPA40cUxBIsMG5c9oTV6ST9UL8paCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow15-14.delta" sparkle:deltaFrom="14" length="228038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eEx5QresiHQpoiVeQ0XxpJIkGW8K0Oih8pu9rftUvax7ourWnQcBvEVEVxJ9ej5Q5NOpSpVU5pOeYl1a9wRBAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow15-13.delta" sparkle:deltaFrom="13" length="246234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S9l7VmF0K6dkIWunlbR5oa2z5YnrUwYSYpy4ijSnmVBtn4jIIkIUvcu3cg5m/17rS5Wz3dIERDX/PrGtHFEsCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow15-12.delta" sparkle:deltaFrom="12" length="261470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5pABYTdEqvFspWkhMW+1MinJRZGJp6b2xoiNKLXP46KJhgCX6zQ7tS4L7UDlgg4PWxxtgixAO9TlJyS7SVP+AQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow15-11.delta" sparkle:deltaFrom="11" length="303942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fKLoIR5Zc5tS/fgZffyyn69tYEnyu4TuIlewy2BUnSzj3tHLY5pag72/jOtJ7MpNJpvZ2uwatMDIeprc7oYyAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow15-10.delta" sparkle:deltaFrom="10" length="304378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1bLuK9L4I68nADwch+FSnRtFapJXX4WO1UuygVTNyXEgXz1TyeAA/s/SUGgH1UOGHT4V7+lETM7L3R2wJvbqBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.14</title>
             <pubDate>Thu, 05 Nov 2026 00:36:02 +0530</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow13-10.delta" sparkle:deltaFrom="10" length="193190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SMim8vEr2KwpPjmwMdATRf9S7AT+9OlR2LJ3FkkR/fRf1r0icrYexJ3lnzCHQko4PCzQliuUVeJnpml6M6OACg=="/>
                 <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow13-7.delta" sparkle:deltaFrom="7" length="297886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q8NttGSFeBR9bFMNy6VMBxmkqgngsa39S5YZBxfSP9lwi2LYlBQgb4TKSm2h9SWLWlDyspfRFGSVHxb+LolMDg=="/>
                 <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow13-6.delta" sparkle:deltaFrom="6" length="301226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TAPHfqW6GnZZP+rOc7E3IgU6bkJGb1K8JkBaTTy8Z75OZy+tDVVsbnCqWwr2pH36msj05lGBend2hvSthTh4Bg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.12</title>
-            <pubDate>Mon, 02 Nov 2026 21:49:51 +0530</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow-1.0.12.dmg" length="4072311" type="application/octet-stream" sparkle:edSignature="vH95ZtVWIXFg7/UofZSumM+ceIFSCJtPF4IVoMvDndRwZ4YPczm7VE01wDbo+cdZM5AbQ4H+fAtTTjf7LSypAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow12-11.delta" sparkle:deltaFrom="11" length="174750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V/51Qxi8YQWCn3OKL0NffurrZh2AivCF7E0xQ7i7qHyjE8rXKnAsrphAL6BBnfMR3F4X0qO6i4McBMPhVgzJDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow12-10.delta" sparkle:deltaFrom="10" length="181490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4O6DNfGx91A89WWsLe554VPYl/sXnb9bHToHzw50PNksfp9XzuQ0WtcDlu1u4fOgzKHlesGQrFOcGZ+VLO33Ag=="/>
-                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow12-7.delta" sparkle:deltaFrom="7" length="288518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PsBejNtbqeH7SRVDUPyhCy1VDSDBzY5tv9QX1eszPWCBaIpafBdZ5iCGxUGIrvaP6sPaELE59YrdNJPOVK3NCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow12-6.delta" sparkle:deltaFrom="6" length="290826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HqpLitnPpJheqwFk3MZh4HmmnQfObIm40JgSokgpGqi6MMOZ6vgC3ZzJKhsnXO07U2TH0FfBrg8s7a/Yz6MlDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/yourarnav/offline-lock-releases/main/Vow12-5.delta" sparkle:deltaFrom="5" length="291254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DOCgZ6A1QFDYmGvM5oz0fFpmM8wgowRh+pNOv1qgXOQcjmLH02Z6xZulphhYGTghvs9fc97iAdrXmnR4TbxEBQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
