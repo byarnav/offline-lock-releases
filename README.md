@@ -1,6 +1,6 @@
 # Vow for Mac: downloads
 
-**Vow** turns off every network connection on your Mac (Wi-Fi, Ethernet, USB adapters and iPhone hotspots) and keeps it off until your timer ends, from 5 minutes to 24 hours.
+**Vow** turns off every network connection on your Mac (Wi-Fi, Ethernet, VPN connections, USB adapters and iPhone hotspots) and keeps it off until your timer ends, from 5 minutes to 24 hours.
 
 **Website:** https://vow.byarnav.com
 
@@ -25,6 +25,7 @@ Vow updates itself. You don't need to download new versions from here.
 ## What Vow does
 
 - Turns off every connection for every app and browser, not just a list of websites
+- VPN-proof: covers all network interfaces including VPN tunnels; cannot be bypassed by connecting to a VPN
 - Sessions from 5 minutes to 24 hours, plus recurring schedules
 - Keeps the session running when you quit the app or restart the Mac
 - No instant cancel: an early unlock takes 15 more minutes
