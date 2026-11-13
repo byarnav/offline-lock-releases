@@ -8,7 +8,7 @@ This repository hosts Vow's installer and the update feed the app checks for new
 
 ## Download
 
-**[Download Vow.dmg](https://raw.githubusercontent.com/byarnav/offline-lock-releases/main/Vow.dmg)** (latest version, 1.0.26)
+**[Download Vow.dmg](https://raw.githubusercontent.com/byarnav/offline-lock-releases/main/Vow.dmg)** (latest version, 1.0.27)
 
 3 full sessions free, then a one-time purchase at [vow.byarnav.com](https://vow.byarnav.com/#pricing).
 
